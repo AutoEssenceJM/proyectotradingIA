@@ -1,3 +1,7 @@
+pip>=24.0
+setuptools>=70.0
+wheel
+
 streamlit
 yfinance
 pandas
